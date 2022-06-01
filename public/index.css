@@ -1,0 +1,12 @@
+.logoimg {
+    height: 50px;
+    margin: 0px 12px -6px -2px;
+    border-radius: 50%;
+}
+.main-img{
+    height: 92vh;
+    width: 100vw;
+}
+.name{
+    margin-top: 0px;
+}
